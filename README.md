@@ -29,3 +29,7 @@ node_modules
 
 ### Ignora archivos de configuración SASS
 .sass-cache
+
+### Respuesta del apartado g
+- El 2 y el 3 son iguales ya que el puntero guarda la direccion de memoria de la variable, 2 seria la direccion guardada en el puntero de la variable y el 3 es la misma direccion de la variable.
+- El punto 4 es la direccion del puntero y es diferente ya que el puntero tiene su propia direccion, lo que si el puntero guarda la direccion de una variable pero el propio puntero tiene su propia direccion.
